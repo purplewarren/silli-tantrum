@@ -1,0 +1,1 @@
+const e={getFamilyContext:async()=>({family_id:"dev-family",children:[{child_id:"dev-child-1",name:"Dev Child",age:5}]}),getChildren:async()=>[{child_id:"dev-child-1",name:"Dev Child",age:5}]};export{e as familyContextService};
